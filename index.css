@@ -1,0 +1,15 @@
+body {
+    background-image: url('fotos/background.jpg');
+    font-family: sans-serif;
+    color: #ffffff;
+}
+
+#encabezado {
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  height: 300px;
+  margin: 8px;
+}

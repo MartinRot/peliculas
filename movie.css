@@ -1,0 +1,21 @@
+body{
+  background-color: #400641;
+}
+
+h1 {
+  text-align: center;
+}
+
+#contenido{
+  display: flex;
+}
+
+img {
+  width: 300px;
+  margin-right:  40px;
+}
+
+li {
+  max-width: 400px;
+  
+}
